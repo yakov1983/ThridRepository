@@ -8,12 +8,8 @@ Hello! Hello! Hello! Hello! Hello! Hello! Hello! Hello! Hello!
 
 Hello World from Repository1!
 
-<<<<<<< HEAD
-another line form Repository 
 
+Line from Repository111
 
-=======
-Line from Repository2
->>>>>>> 6ac3d616ba136005152aeeb325994883059f4d05
 
 
